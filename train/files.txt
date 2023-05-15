@@ -1,0 +1,3 @@
+model name= shufflenet_v2_x1_5
+learningRate= 0.001
+featureExtract=True

@@ -1,0 +1,3 @@
+Car Name = Belano
+Car Year = 2000
+Car color = silver
